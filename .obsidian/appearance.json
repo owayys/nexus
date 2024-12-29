@@ -1,4 +1,7 @@
 {
   "cssTheme": "Obsidian gruvbox",
-  "accentColor": ""
+  "accentColor": "",
+  "interfaceFontFamily": "Atkinson Hyperlegible",
+  "textFontFamily": "Atkinson Hyperlegible",
+  "monospaceFontFamily": "MesloLGS NF"
 }

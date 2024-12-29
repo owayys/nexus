@@ -1,3 +1,5 @@
 {
-  "propertiesInDocument": "source"
+  "propertiesInDocument": "source",
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./media"
 }
