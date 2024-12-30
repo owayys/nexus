@@ -1,4 +1,5 @@
 ---
-title: "Objective"
-description: "Objective"
+title: Objective
+description: Objective
+publish: true
 ---

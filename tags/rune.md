@@ -1,4 +1,5 @@
 ---
-title: "Rune"
-description: "Rune"
+title: Rune
+description: Rune
+publish: true
 ---
