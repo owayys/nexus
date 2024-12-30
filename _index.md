@@ -1,7 +1,7 @@
 ---
 title: Home
 publish: true
-tags: rune objective
+tags: #rune #objective
 ---
 
 > [!attention] 
