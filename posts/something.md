@@ -1,4 +1,5 @@
 ---
 tags:
   - rune
+publish: true
 ---
