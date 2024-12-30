@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "tags/objective.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "objective"
             }
           }
         ]
@@ -173,9 +173,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d543e770dac3bc7b",
+  "active": "4792e54e86c65666",
   "lastOpenFiles": [
-    "tags",
-    "_index.md"
+    "tags/rune.md",
+    "tags/objective.md",
+    "_index.md",
+    "tags"
   ]
 }
