@@ -1,5 +1,5 @@
 ---
 title: Rune
-description: Rune
+description: "Rune tag description"
 publish: true
 ---

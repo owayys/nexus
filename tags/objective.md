@@ -1,5 +1,5 @@
 ---
 title: Objective
-description: Objective
+description: "Objective tag description"
 publish: true
 ---
