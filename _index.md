@@ -1,6 +1,5 @@
 ---
 title: Home
-publish: true
 ---
 
 > [!attention] 

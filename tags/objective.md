@@ -1,5 +1,4 @@
 ---
-title: Objective
+title: "Objective"
 description: "Objective tag description"
-publish: true
 ---

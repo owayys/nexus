@@ -1,5 +1,5 @@
 ---
 tags:
   - rune
-publish: true
+  - objective
 ---
