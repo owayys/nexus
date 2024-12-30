@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/something.md",
+                "file": "tags/rune.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "something"
+              "title": "rune"
             }
           }
         ]
@@ -175,10 +175,10 @@
   },
   "active": "4792e54e86c65666",
   "lastOpenFiles": [
+    "posts/something.md",
     "tags/rune.md",
     "tags/objective.md",
     "_index.md",
-    "posts/something.md",
     "posts",
     "tags"
   ]
